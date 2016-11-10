@@ -1,5 +1,5 @@
-#ifndef _OBJECT_H
-#define _OBJECT_H
+#ifndef _REFC_H
+#define _REFC_H
 
 #include <stdlib.h>
 
